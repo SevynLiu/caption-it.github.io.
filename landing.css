@@ -1,0 +1,232 @@
+body,html {
+    width: 100%;
+    height: 100%;
+	margin:0;
+	overflow: scroll;
+}
+.navbar {
+    overflow: hidden;
+    background-color: #F15A22;
+    position: fixed; /* Set the navbar to fixed position */
+    top: 0; /* Position the navbar at the top of the page */
+    width: 100%; /* Full width */
+}
+
+/* Links inside the navbar */
+.navbar a {
+	font-family: 'Source Code Pro', monospace;
+	font-weight: 500;
+	font-size: 85%;
+    float: right;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 20px 16px;
+    display: inline-block;
+    text-decoration: none;
+}
+
+#logo {
+	float: left;
+}
+
+.landing-text{
+	padding-top: 20px;
+	font-family: 'Source Code Pro', monospace;
+	font-weight: 500;
+	font-size: 100%;
+    height: 120px;
+}
+#captionit{
+	color: #FF4500;
+}
+#pama{
+	width: 40%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+/* Change background on mouse-over */
+#logo:hover {
+    background: #FEDD00;
+    display: block;
+    color: black;
+}
+.navbar a:hover{
+    display: block;
+    color: #FEDD00;
+}
+
+
+#intro{
+    font-family: 'Source Code Pro', monospace;
+    font-weight: 500;
+    font-size: 90%;
+}
+
+.Dfirst{
+    font-family: 'Source Code Pro', monospace;
+    font-weight: 900;
+    font-size: 190%;
+}
+#joinus{
+    color: black;
+    font-family: 'Source Code Pro', monospace;
+    font-weight: 300;
+    font-size: 80%;
+}
+
+#slogan{
+    color:  #000000;
+    font-size: 85%;
+}
+.orange{
+    color: #F15A22;
+}
+.button {
+    background-color: #F15A22;
+    font-family: 'Source Code Pro', monospace;
+    font-weight: 700;
+    border: none;
+    color: white;
+    padding: 8px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+#notify{
+    color: #000000;
+    padding-top: 10px;
+    font-family: 'Source Code Pro', monospace;
+    font-weight: 500;
+    font-size: 90%;
+}
+.email{
+    display: inline-block;
+    height:29px;
+    }
+    #joinus{
+    color: #FEDD00;
+}
+#mc_embed_signup #mc-embedded-subscribe-form{
+    background-color: #FEDD00;
+}
+#emailform{
+    background-color: #FEDD00;
+}
+#label{
+    float: center;
+}
+#labeltext{
+    color: #000000;
+    font-family: 'Source Code Pro', monospace;
+    font-weight: 700;
+    font-size: 185%;
+}
+
+#table1{
+    padding-top: 80px;
+}
+#what{
+    color: #FEDD00;
+}
+#header{
+    font-family: 'Source Code Pro', monospace;
+    font-weight: 500;
+    font-size: 165%;
+    padding-top: 90px;
+    padding-left: 90px;
+}
+.text{
+    font-family: 'PT Sans', sans-serif;
+    font-size: 16px;
+    font-weight: lighter;
+    padding-top: 20px;
+    padding-left: 90px;
+}
+.list{
+    font-family: 'Source Code Pro', sans-serif;
+    font-size: 16px;
+    
+    padding-top: 20px;
+    color: #F15A22;
+}
+
+
+.gala{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-weight: 300;
+    font-size: 75%;
+}
+.memetext{
+    background-color: #FEFEFE;
+    font-family: 'Source Code Pro', monospace;
+    font-weight: 500;
+    font-size: 100%;
+}
+#dots{
+    padding-top: 30px;
+    padding-left: 120px;
+}
+#berry{
+    padding-top:0px;
+    padding-left: 50px;
+}
+
+
+
+
+.capwhat{
+    width: 100%;
+    height: 100%;
+}
+#img{
+    vertical-align: middle;
+    width: 40%;
+}
+
+
+#whattext{
+    font-family: 'Source Code Pro', monospace;
+    font-weight: 400;
+    font-size: 90%;
+       
+}
+
+#contactus{
+    background-color: white;
+    height: 600px;
+}
+
+
+#table3{
+    padding-top: 50px;
+}
+.contactustext{
+    font-family: 'Source Code Pro', monospace;
+    font-weight: 500;
+    font-size: 100%;
+}
+.contactustext1{
+    font-family: 'Source Code Pro', monospace;
+    font-weight: 500;
+    font-size: 100%;
+    color: #900C3F;
+}
+#contactustitle{
+    padding-top: 35px;
+    font-family: 'Source Code Pro', monospace;
+    font-weight: 500;
+    font-size: 150%;
+}
+.display{
+    padding-left: 35px;
+}
+#©{
+    background-color: black;
+    color: white;
+    font-size: 60%;
+}
